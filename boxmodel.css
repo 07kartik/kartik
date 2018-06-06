@@ -1,0 +1,10 @@
+.boxmodel {
+  border: solid red 20px;
+  background-color: blue;
+  font-size: 20px;
+  display: inline-block;
+  padding: 20px;
+  margin: 20px;
+  width: 100px;
+  height: auto;
+}
