@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Data>
+	<student>
+		<fname>Anjali 2</fname>
+		<lname>Patil 2</lname>
+		<classname>SYCS 2</classname>
+		<division>A 2</division>
+		<marks>100 2</marks>
+	 </student>
+	<student>
+		<fname>Urmila 2</fname>
+		<lname>Chaudhari 2</lname>
+		<classname>SYCS 2</classname>
+		<division>C 2</division>
+		<marks>100 2</marks>
+	 </student>
+	<student>
+		<fname>Anket 2</fname>
+		<lname>Shihmar 2</lname>
+		<classname>SYCS 2</classname>
+		<division>C 2</division>
+		<marks>100 2</marks>
+	 </student>
+	<student>
+		<fname>Kirti 2</fname>
+		<lname>Sanon 2</lname>
+		<classname>SYCS 2</classname>
+		<division>C 2</division>
+		<marks>100 2</marks>
+	 </student>
+	<student>
+		<fname>Urvashi 2</fname>
+		<lname>Rautela 2</lname>
+		<classname>SYCS 2</classname>
+		<division>C 2</division>
+		<marks>100 2</marks>
+	 </student>
+	<student>
+		<fname>Snehal 2</fname>
+		<lname>Talgaonkar 2</lname>
+		<classname>SYCS 2</classname>
+		<division>B 2</division>
+		<marks>100 2</marks>
+	 </student>
+	<student>
+		<fname>Noname 2</fname>
+		<lname>Noname 2</lname>
+		<classname>SYCS 2</classname>
+		<division>B 2</division>
+		<marks>100 2</marks>
+	 </student>
+	<student>
+		<fname>Mickey 2</fname>
+		<lname>Duseja 2</lname>
+		<classname>SYCS 2</classname>
+		<division>B 2</division>
+		<marks>100 2</marks>
+	 </student>
+	<student>
+		<fname>Parveen 2</fname>
+		<lname>Shaikh 2</lname>
+		<classname>SYCS 2</classname>
+		<division>B 2</division>
+		<marks>100 2</marks>
+	 </student>
+	<student>
+		<fname>Deepmala 2</fname>
+		<lname>Baviskar 2</lname>
+		<classname>SYCS 2</classname>
+		<division>A 2</division>
+		<marks>100 2</marks>
+	 </student>
+ </Data>
